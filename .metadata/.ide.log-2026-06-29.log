@@ -1,0 +1,32 @@
+2026-06-30 00:00:33,388 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 563015448 Bytes (1045430272)
+2026-06-30 00:00:34,782 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 626452248 Bytes (1045430272)
+2026-06-30 00:00:35,203 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-06-30 00:00:35,204 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-06-30 00:00:35,204 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-06-30 00:00:35,204 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-06-30 00:00:35,204 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-06-30 00:00:35,205 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-06-30 00:00:35,296 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\license.tmp_save
+2026-06-30 00:00:35,439 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\license.tmp
+2026-06-30 00:00:35,474 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\gpio.tmp_save
+2026-06-30 00:00:35,575 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\gpio.tmp
+2026-06-30 00:00:35,644 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\stm32f1xx_it.c_save
+2026-06-30 00:00:35,797 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\stm32f1xx_it.c
+2026-06-30 00:00:35,808 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\stm32f1xx_it.h_save
+2026-06-30 00:00:35,924 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\stm32f1xx_it.h
+2026-06-30 00:00:35,954 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\stm32f1xx_hal_msp.c_save
+2026-06-30 00:00:36,134 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\stm32f1xx_hal_msp.c
+2026-06-30 00:00:36,154 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\system.tmp_save
+2026-06-30 00:00:36,264 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\MXTmpFiles\system.tmp
+2026-06-30 00:00:36,298 [INFO] CodeEngine:321 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\stm32f1xx_hal_conf.h_save
+2026-06-30 00:00:36,458 [INFO] CodeEngine:345 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\stm32f1xx_hal_conf.h
+2026-06-30 00:00:36,533 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\main.h_save
+2026-06-30 00:00:36,696 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Inc\main.h
+2026-06-30 00:00:36,720 [INFO] CodeEngine:265 - oldGeneratedFile, E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\main.c_save
+2026-06-30 00:00:36,933 [INFO] CodeEngine:289 - Generated code: E:\DoC\STM32\WorkSpace19\03-Blink2\Core\Src\main.c
+2026-06-30 00:00:37,476 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 233mS.
+2026-06-30 00:00:37,482 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-06-30 00:00:37,687 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2026-06-30 00:00:39,367 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1885mS.
+2026-06-30 00:00:39,369 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-06-30 00:00:39,375 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
